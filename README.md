@@ -65,10 +65,5 @@
 * Discusses how i tested my code
 
 
-#### Sources
-* Cse13s discord server
-* Classmates from cse13s
-* https://gmplib.org/manual/Integer-Functions
-* Alot of gmp syntax stuff
-* man (insert function name)
+
 
